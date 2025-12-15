@@ -1,0 +1,10 @@
+{
+  "id": "note-opener",
+  "name": "지정 노트 열기",
+  "version": "1.0.1",
+  "minAppVersion": "0.15.0",
+  "description": "설정에서 선택한 문서를 리본 아이콘과 명령어로 빠르게 엽니다.",
+  "author": "ujupatipanno",
+  "authorUrl": "https://github.com/ujupatipanno",
+  "isDesktopOnly": false
+}
